@@ -2,11 +2,11 @@
 
 ## Table of Contents
 - [Zoe](#Zoe)
-- RatGPT
-- Voltaik
-- Witchdoc
-- Proleetariat
-- Tahaa Farooq
+- [RatGPT](#RatGPT)
+- [Voltaik](#Volatik)
+- [Witchdoc](#Witchdoc)
+- [Proleetariat](#Proleetariat)
+- [Tahaa Farooq](#Tahaa-Faroog)
 - Tonabrix1
 - Doc
 - Eingengraou
