@@ -1,7 +1,7 @@
 # The Team
 
 ## Table of Contents
-- (Zoe)[#Zoe]
+- [Zoe](#Zoe)
 - RatGPT
 - Voltaik
 - Witchdoc
