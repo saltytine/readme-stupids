@@ -8,9 +8,7 @@
 </div>
 <div id="bio">
   <h2>RatGPT</h2>
-  ```
     <p><strong>Roles:</strong> Security Researcher</p>
     <p><strong>About:</strong>"I am sewer rat. I eat cheese but I also eat other things. I hack."</p>
-  ```
     </div></p>
 </div>
